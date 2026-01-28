@@ -1,0 +1,4 @@
+/home/dev/RpcFrame/build/CMakeFiles/registry.dir
+/home/dev/RpcFrame/build/CMakeFiles/discovery.dir
+/home/dev/RpcFrame/build/CMakeFiles/edit_cache.dir
+/home/dev/RpcFrame/build/CMakeFiles/rebuild_cache.dir
